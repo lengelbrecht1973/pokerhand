@@ -1,0 +1,9 @@
+Notes on compiling and running the application.
+
+1. Prerequisites: The system requires Java 17 and maven 3.3.2 to run.
+
+2. The script build.sh will run the maven build.
+
+3. The script run.sh will run the main application. The build.sh script has to be run first.
+
+4. The system is developed as a Spring boot application in order to make it easy to developed a frontend with proper controller methods, service methods and repositories for possible database storing an quering.
